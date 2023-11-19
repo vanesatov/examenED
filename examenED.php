@@ -10,7 +10,6 @@
         div{
             width: 600px;
             margin: auto;
-            ba
         }
     </style>
 

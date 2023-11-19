@@ -8,7 +8,9 @@
     <link rel="stylesheet" href="css/estilo.css">
     <style>
         div{
+            width: 600px;
             margin: auto;
+            ba
         }
     </style>
 
@@ -17,6 +19,11 @@
     <div>
         <h1>NOMBRE COMPLETO DEL ALUMNO</h1>
         <img src="img/nieve.jpg" alt="Foto de la nieve">
+        <br>
+
+        <?php
+            echo "<h2>Examen Entorno de Desarrollo. Suerte!</h2>";
+        ?>
     </div>
 </body>
 </html>
